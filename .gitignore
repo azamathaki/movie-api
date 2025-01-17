@@ -32,6 +32,6 @@ build/
 ### VS Code ###
 .vscode/
 
-### Sencetive Infos ###
+### Sensitive Infos ###
 .env
 application.properties
